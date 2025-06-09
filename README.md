@@ -1,12 +1,40 @@
-# React + Vite
+# 🎟️ Hackathon Ticket System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A complete ticket registration and admin management system for hackathons – built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [charming-hamster-930678.netlify.app](https://charming-hamster-930678.netlify.app/)  
+📦 **GitHub Repository**: [github.com/Sumitr995/Ticket-System](https://github.com/Sumitr995/Ticket-System.git)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎯 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✅ Registration System
+- Team name input
+- Team leader details: name, email, phone
+- 3 team members with complete contact information
+- Full form validation for all required fields
+- Unique Ticket ID generation (`HACK-XXXXXX` format)
+- Simulated email confirmation (logs to console)
+
+### 🛠️ Admin Panel
+- View all registrations in a clean, searchable table
+- Edit existing ticket details
+- Delete tickets with confirmation dialog
+- View complete ticket details
+- Live registration counter with real-time updates
+
+### 🎨 Design & UX
+- Clean, minimal UI with blue and green accents
+- Fully responsive layout (mobile + desktop)
+- Professionally styled forms with clear spacing and hierarchy
+- Seamless navigation between Registration and Admin views
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Sumitr995/Ticket-System.git
+   cd Ticket-System
