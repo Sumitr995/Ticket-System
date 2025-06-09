@@ -2,7 +2,7 @@
 
 A complete ticket registration and admin management system for hackathons – built using **React**, **Vite**, and **Tailwind CSS**.
 
-🔗 **Live Demo**: [charming-hamster-930678.netlify.app](https://charming-hamster-930678.netlify.app/)  
+🔗 **Live Demo**: [https://ticketsystem-sumitr995.netlify.app/](https://ticketsystem-sumitr995.netlify.app/)  
 📦 **GitHub Repository**: [github.com/Sumitr995/Ticket-System](https://github.com/Sumitr995/Ticket-System.git)
 
 ---
